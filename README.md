@@ -1,1 +1,1 @@
-This program can be used to calculate the values of resistance in range of a resistor.
+This program can be used to calculate the range of resistance values of multiple resistors.
